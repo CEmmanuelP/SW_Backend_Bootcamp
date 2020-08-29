@@ -33,3 +33,8 @@
   
   movie 테이블 생성 및 샘플 데이터 생성 (완료)
 
+## 3. Spring, DB 연동
+- dependency 추가 (완료)
+- Mybatis와 mariaDB 연결 (완료)
+- mariaDB와 Spring 연결 (완료)
+- 서버 실행 후 웹 페이지 구동 (404 error)
