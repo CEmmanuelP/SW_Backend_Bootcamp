@@ -1,4 +1,8 @@
- SW_Backend_Bootcamp
+# SW_Backend_Bootcamp
+
+---------------------- 
+
+# 1주차
 
 ## 1. repository
 
@@ -38,3 +42,27 @@
 - Mybatis와 mariaDB 연결 (완료)
 - mariaDB와 Spring 연결 (완료)
 - 서버 실행 후 웹 페이지 구동 (404 error)
+
+
+-----------
+
+# 2주차
+
+### HTTP / Restful API
+- HTTP 통신에 대한 이해
+- Restful API 학습
+- JSON 학습
+- pathvariable 학습
+
+### Restful API 설계 작성
+- 인터페이스 가이드 문서 작성 > 클라이언트 개발자와 협업하는 방법
+- 요청URL
+- Request Parameters
+- Reponse Body
+
+### 어려웠던 점
+- API관련 경험 미흡
+- 초반 방향 설정의 어려움
+- 요청 파라미터를 통한 응답 유추 어려움
+- 설계한 API의 개선점 스스로 발견 어려움
+
